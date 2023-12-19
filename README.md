@@ -6,7 +6,6 @@
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 # Hi there 👋
 ## Hi there 👋
@@ -14,22 +13,7 @@
 #### Hi there 👋
 ##### Hi there 👋
 ###### Hi there 👋
----
 
-**두껍게** <br>
-*기울임꼴* <br>
-~~취소선긋기~~ <br>
-
-*1번
-*2번
--1번
--2번
-
-[네이버](https://naver.com)
-
-```
-<html> ~~~ </html>
-```
 
 
 
